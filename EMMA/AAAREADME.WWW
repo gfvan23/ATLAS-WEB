@@ -1,0 +1,38 @@
+This directory contains copies of latest versions (2.2) of EMMA database files. 
+
+Version 2.2 was released on Dec 14, 2004 to correct a mistake found in version 
+2.1 and 2.0 concerning the reported values of scalar moments for mechanisms 
+coming from the paper by Stich et al. (2003) (erroneously input by us as dyn cm 
+instead of N m). 
+
+This new release also include the changes made in release 2.1 of Aug 31, 2004 
+concerning the epicentral coordinates of 18 mechanisms taken from a paper by 
+Moreira (1985) (See errata page in Supplement of Vol 47, N. 1 of Annals of 
+Geophysics).  
+
+To update from version 2.0 and 2.1: download and decompress the EMMAx_MDE.zip 
+file corresponding to desired MS-Access version (x= 97, 2000, 2003) in the \EMMA 
+folder.
+
+For a clean install:  download and decompress EMMA.zip file in a folder named 
+\EMMA and follow the instruction in EMMA_README_TXT file.
+
+References
+
+Moreira V.S., 1985, Seismotectonics of Portugal and its adjacent area in the 
+   Atlantic, Tectonophysics, 117, 85-96.
+Stich D., Ammon C.J. and J. Morales, 2003, Moment tensor solutions for small and 
+   moderate earthquakes in the Ibero-Maghreb region, J. Geophys. Res, 108, N. 
+   B3, 2148. doi:10.1029/2002JB002057IAG (The IAG Regional Moment Tensor 
+   Project, http://www.ugr.es/~iag/tensor/mtc.html)
+
+EMMA Catalog References
+
+Gasperini P. and Vannucci G. FPSPACK: A package of simple Fortran subroutines to
+   manage earthquake focal mechanism data, Computers & Geosciences, 29/7,
+   893-901,2003. 
+Vannucci G. and Gasperini P, A database of revised fault plane solutions for
+  Italy and surrounding regions, Computers & Geosciences, 29/7, 903-909, 2003. 
+Vannucci G. and Gasperini P, The new release of the database of Earthquake 
+  Mechanisms of the Mediterranean Area (EMMA version 2), Annals of Geophysics, 
+  Supplement to Vol 47, N.1, 307-334, 2004.
